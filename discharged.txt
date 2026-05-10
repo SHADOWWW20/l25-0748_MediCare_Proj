@@ -1,0 +1,6 @@
+1,Ahmed Ali,28,M,03001234567,pass123,7000.00
+1,1,1,07-05-2026,09:00,completed
+2,1,1,20-05-2026,12:00,cancelled
+1,1,1,1,07-05-2026,Paracetamol 500mg;Amoxicillin 250mg,Take after meals
+1,1,1,1500.00,paid,07-05-2026
+2,1,2,1500.00,cancelled,20-05-2026
